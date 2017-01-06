@@ -1,0 +1,12 @@
+{
+  "author": "mrkhdly",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-shell": "^0.5.2",
+    "gulp-uncss": "^1.0.6",
+    "tachyons": "^4.6.1"
+  }
+}
