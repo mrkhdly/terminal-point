@@ -1,12 +1,24 @@
 {
+  "name": "qaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/markhdly/qaa.git"
+  },
   "author": "mrkhdly",
+  "license": "CC0",
   "devDependencies": {
-    "browser-sync": "^2.18.5",
+    "browser-sync": "^2.14.3",
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.1",
+    "gulp-concat": "^2.6.0",
     "gulp-cssnano": "^2.1.2",
     "gulp-shell": "^0.5.2",
     "gulp-uncss": "^1.0.6",
-    "tachyons": "^4.6.1"
+    "tachyons": "^4.5.3"
   }
 }
