@@ -40,4 +40,4 @@ gulp.task('serve', function () {
     gulp.watch(['./_*/**/*.*', './images/**/*.*', './index.html', '!./_site/**/*.*']).on('change', reload);
 });
 
-gulp.task('default', ['css', 'build', 'serve']);
+gulp.task('default', ['css', 'serve', 'build']);
