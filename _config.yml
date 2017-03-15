@@ -7,6 +7,7 @@ url: "https://yourdomain.com" # the base hostname & protocol for your site
 #Information that is used to create the Terms of Service & Privacy Policy pages
 company: Company Name
 location: Location
+start-year: 2016
 
 # Build settings
 markdown: kramdown
